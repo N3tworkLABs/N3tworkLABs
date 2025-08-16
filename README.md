@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrés </h1>
-<h3 align="center">I'm a networking professional passionate about programming, and an enthusiastic learner of hacking and cybersecurity. ⚡👤🕸️</h3>
+<h3 align="center">A networking professional passionate about programming, and an enthusiastic learner of hacking and cybersecurity. ⚡👤🕸️</h3>
 
 
 <p align="center">
