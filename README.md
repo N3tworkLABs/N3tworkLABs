@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://images.credly.com/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" alt="Badge 1" width="120"/>
-  <img src="https://images.credly.com/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" alt="Badge 2" width="120"/>
+  <img src="https://images.credly.com/size/340x340/images/43ee30bc-78c5-4704-942c-337c6ee7abf9/blob" alt="Badge 2" width="120"/>
   <img src="https://images.credly.com/images/7822016c-371e-45c9-9a99-4f5e28d1d0f0/image.png" alt="Badge 3" width="120"/>
 </p>
 
@@ -17,10 +17,49 @@
 
 - 💬 Ask me about **Cisco, Fortinet, Python for Networks**.
 
-<h3 align="left">Connect with me:</h3>
+
+
+<h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/@n3worklabs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@n3worklabs" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@n3tworklabs" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="20" height="20"/>
+    &nbsp;@n3tworklabs
+  </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://www.twitch.tv/n3tworklabs" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="Twitch" width="20" height="20"/>
+    &nbsp;@n3tworklabs
+  </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://www.instagram.com/n3tworklabs" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="20" height="20"/>
+    &nbsp;@n3tworklabs
+  </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@n3tworklabs" target="_blank" rel="noreferrer">
+    <img src="https://play-lh.googleusercontent.com/Ui_-OW6UJI147ySDX9guWWDiCPSq1vtxoC-xG17BU2FpU0Fi6qkWwuLdpddmT9fqrA=w240-h480-rw" alt="TikTok" width="20" height="20"/>
+    &nbsp;@n3tworklabs
+  </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://www.facebook.com/n3tworklabs" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="20" height="20"/>
+    &nbsp;n3tworklabs
+  </a>
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
