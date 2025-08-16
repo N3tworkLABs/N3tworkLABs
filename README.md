@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-  <a href="https://www.youtube.com/@n3tworklabs" target="_blank" rel="noreferrer">
+  <a href="https://www.youtube.com/@@N3workLABs" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="20" height="20"/>
     &nbsp;@n3tworklabs
   </a>
