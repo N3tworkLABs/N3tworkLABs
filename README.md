@@ -5,7 +5,8 @@
 <p align="center">
   <img src="https://images.credly.com/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" alt="Badge 1" width="120"/>
   <img src="https://images.credly.com/size/340x340/images/43ee30bc-78c5-4704-942c-337c6ee7abf9/blob" alt="Badge 2" width="120"/>
-  <img src="https://images.credly.com/images/7822016c-371e-45c9-9a99-4f5e28d1d0f0/image.png" alt="Badge 3" width="120"/>
+  <img src="https://images.credly.com/images/9237abe6-3972-4fe2-8d10-b1fe9373d9cc/blob" alt="Badge 3" width="120"/>
+  <img src="https://images.credly.com/images/f90d5d65-37b9-4354-a81f-38b969ea6f2e/blob" alt="Badge 3" width="120"/>
 </p>
 
 
